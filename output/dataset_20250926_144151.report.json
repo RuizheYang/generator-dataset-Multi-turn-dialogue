@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "total_conversations": 40,
+    "generated_at": "2025-09-26T14:41:51.531868",
+    "config": {
+      "model": "gpt-4.1",
+      "temperature": 0.7,
+      "persona_presets": [
+        "basic_chinese_customer",
+        "business_customer",
+        "tech_support_user"
+      ],
+      "scenario_types": [
+        "客服咨询"
+      ]
+    }
+  },
+  "statistics": {
+    "conversation_length": {
+      "average": 8.725,
+      "min": 6,
+      "max": 12
+    },
+    "occupation_distribution": {
+      "个体户": 7,
+      "设计师": 4,
+      "工程师": 5,
+      "学生": 4,
+      "程序员": 6,
+      "会计": 2,
+      "司机": 2,
+      "医生": 1,
+      "服务员": 2,
+      "销售": 4,
+      "教师": 2,
+      "律师": 1
+    },
+    "scenario_distribution": {
+      "客服咨询": 40
+    },
+    "persona_preset_distribution": {
+      "basic_chinese_customer": 15,
+      "business_customer": 18,
+      "tech_support_user": 7
+    }
+  }
+}
